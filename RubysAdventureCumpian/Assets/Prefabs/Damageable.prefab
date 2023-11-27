@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.5899, y: 2.9518, z: 0}
-  m_LocalScale: {x: 0.95357305, y: 0.89783263, z: 1}
+  m_LocalScale: {x: 0.30112892, y: 0.32687223, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
-  m_DrawMode: 0
+  m_DrawMode: 2
   m_Size: {x: 3.3208368, y: 3.0592992}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
@@ -125,7 +125,7 @@ BoxCollider2D:
     oldSize: {x: 1, y: 1}
     newSize: {x: 3.3208368, y: 3.0592992}
     adaptiveTilingThreshold: 0.5
-    drawMode: 0
+    drawMode: 2
     adaptiveTiling: 0
   m_AutoTiling: 1
   serializedVersion: 2
